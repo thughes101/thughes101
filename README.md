@@ -1,7 +1,17 @@
-## Tom Hughes
+## Tom Hughes  
 
-### Director/GIS Specialist @ [HuGIS geospatial ltd](http://www.hugis.co.uk/welcome/)
+### Director/GIS Specialist @ [HuGIS geospatial ltd](http://www.hugis.co.uk/welcome/) 
 
+![](http://www.hugis.co.uk/wp-content/uploads/2016/05/Weaver_Marble_edit-300x300.png)
+
+### Recent Clients
+
+* IFAD
+* DFID
+* DIO (MOD)
+* Modini
+* Knight Frank
+* Surrey County Council
 
 <!--
 ### Hi there 👋
