@@ -3,7 +3,9 @@
 ### Director/GIS Specialist @ [HuGIS geospatial ltd](http://www.hugis.co.uk/welcome/) 
 
 ### Recent Clients
-
+* UNICEF
+* OCHA
+* MapAction
 * IFAD
 * DFID
 * DIO (MOD)
